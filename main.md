@@ -40,6 +40,10 @@ abstract: |
   results can significantly aid in the validation of computer systems 
   research.
 
+  **Acknowledgements:** Work performed under auspices of US DOE by 
+  LLNL contract DE-AC52-07NA27344 ABS-684863 and by SNL contract 
+  DE-AC04-94AL85000.
+
 documentclass: tinytocs
 tinytocs: true
 numbersections: false
